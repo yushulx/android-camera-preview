@@ -9,3 +9,6 @@ Use the least code to create Android camera preview by using `Camera` and `Camer
 - https://developer.android.com/reference/android/hardware/camera2/package-summary
 - https://developer.android.com/guide/topics/media/camera
 - https://developer.android.com/reference/android/view/TextureView
+
+## Blog
+[Android Camera Preview App: Camera vs. Camera2](https://www.codepool.biz/android-camera-preview-app-camera2.html)
