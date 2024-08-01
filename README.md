@@ -1,7 +1,7 @@
 # Android Camera Preview: Camera vs Camera2
 Use the least code to create Android camera preview by using `Camera` and `Camera2` APIs.
 
-<kbd><img src="https://www.codepool.biz/wp-content/uploads/2019/05/android-camera-preview-camera2.jpg" width="50%">
+<kbd><img src="https://www.dynamsoft.com/codepool/img/2019/05/android-camera-preview-camera2.jpg" width="50%">
 
 ## Reference
 - https://stackoverflow.com/questions/38535355/android-textureview-full-screen-preview-with-correct-aspect-ratio
